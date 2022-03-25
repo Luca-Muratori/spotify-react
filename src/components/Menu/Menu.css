@@ -1,0 +1,10 @@
+.menu-wrap {
+  background-color: black;
+  width: 30vh;
+  height: 90vh;
+  color: white;
+}
+
+button {
+  width: 100%;
+}
